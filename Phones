@@ -3,6 +3,7 @@ There are two types of phones - ios and android.
 ios
 ---
 iphones - by Apple Inc.
+
 iOS (formerly iPhone OS) is a mobile operating system created and developed by Apple Inc. exclusively for its hardware. 
 It is the operating system that presently powers many of the company's mobile devices, including the iPhone, iPad, and iPod Touch. 
 It is the second most popular mobile operating system globally after Android.
@@ -16,10 +17,19 @@ result is the undo command) or rotating it in three dimensions (one common resul
 between portrait and landscape mode). Apple has been significantly praised for incorporating thorough accessibility 
 functions into iOS, enabling users with vision and hearing disabilities to properly use its products.
 
-Android - Google and open source
+Android
+-------
+Google and open source
+Android is a mobile operating system developed by Google. It is based on a modified version of the Linux kernel and 
+other open source software, and is designed primarily for touchscreen mobile devices such as smartphones and tablets.
 
+Google's Android and Apple's ios comparison
+-------------------------------------------
 Google's Android and Apple's iOS are operating systems used primarily in mobile technology, 
 such as smartphones and tablets. Android, which is Linux-based and partly open source, is
 more PC-like than iOS, in that its interface and basic features are generally more customizable 
 from top to bottom. However, iOS' uniform design elements are sometimes seen as being more user-friendly.
+-------------------------------------------------------------------------------------------------------------------------------
+
+
 
